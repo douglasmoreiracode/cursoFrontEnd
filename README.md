@@ -9,4 +9,18 @@
 - Quando alterou
 - Todos os arquivos
 
-##GitFlow
+## Instalação do Git
+- Windows: 
+- Linux (apt-get): sudo apt-get install git
+- MAC (brew): brew install git
+
+## Criar conta no GitHub
+
+## Clonar o projeto
+
+##Comomits
+Inforama~çao da alteração
+- após testado todo seu código
+
+## GitFlow
+Fluxo do Git
