@@ -8,3 +8,5 @@
 - O que alterou
 - Quando alterou
 - Todos os arquivos
+
+##GitFlow
