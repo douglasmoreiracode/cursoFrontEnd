@@ -19,7 +19,7 @@
 ## Clonar o projeto
 
 ## Commits
-~Informação da alteração
+- Informação da alteração
 - após testado todo seu código
 
 ## GitFlow
