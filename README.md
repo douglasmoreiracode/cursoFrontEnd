@@ -18,7 +18,7 @@
 
 ## Clonar o projeto
 
-##Comomits
+## Commits
 Inforama~çao da alteração
 - após testado todo seu código
 
